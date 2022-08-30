@@ -1,0 +1,101 @@
+{
+  "quiz": [
+    {
+      "q0": {
+        "question": "2+2=",
+        "option": [1, 2, 3, 4],
+        "answer": 4
+      },
+      "q1": {
+        "question": "3+5=",
+        "option": [10, 11, 8, 4],
+        "answer": 8
+      },
+      "q2": {
+        "question": "10*5",
+        "option": [50, 20],
+        "answer": 50
+      },
+      "q3": {
+        "question": "50%10",
+        "option": [0, 1, 2],
+        "answer": 0
+      },
+      "q4": {
+        "question": "50^2",
+        "option": [2500, 1500, 3500],
+        "answer": 2500
+      },
+      "q5": {
+        "question": "What's the name of tittle of first star wars movie",
+        "option": [
+          "New Hope",
+          "Revenge of the Sith",
+          "The Atact of the Clones",
+          "The Phantom Menance",
+          "The Empire Strike Back",
+          "Return of the Jedi"
+        ],
+        "answer": "New Hope"
+      },
+      "q6": {
+        "question": "What is the national animal of Poland",
+        "option": [
+          "Red Deer",
+          "European Bison",
+          "Lynx"
+        ],
+        "answer": "European Bison"
+      },
+      "q7": {
+        "question": "What is the capital of Poland?",
+        "option": [
+          "Warsaw",
+          "Wroclaw",
+          "Cracow"
+        ],
+        "answer": "Warsaw"
+      },
+      "q8": {
+        "question": "How many people are living in Poland? (circa)",
+        "option": [
+          "37,8 mln",
+          "17,8 mln",
+          "67,8 mln",
+          "150,9 mln"
+        ],
+        "answer": "37,8 mln"
+      },
+      "q9": {
+        "question": "What is the Polski lektor?",
+        "option": [
+          "A Polish proffesor",
+          "A translator for foregin movies",
+          "The smartes person in town",
+          "Polish wizzard"
+        ],
+        "answer": "A translator for foregin movies"
+      },
+      "q10": {
+        "question": "What is imieniny?",
+        "option": [
+          "Birthday",
+          "Name day",
+          "A mountainous region in northern Poland",
+          "A summer festival"
+        ],
+        "answer": "Name day"
+      },
+      "q11": {
+        "question": "Who was the last king of Poland?",
+        "option": [
+          "Casimir III",
+          "Stanisław August II Poniatowski",
+          "Sigimund III",
+          "Bolesław I"
+        ],
+        "answer": "August II Poniatowski"
+      }
+    }
+  ]
+}
