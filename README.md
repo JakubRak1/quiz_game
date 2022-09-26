@@ -24,4 +24,3 @@ ___
 ```
 ### arg1 = name of DB (test.json)
 ### arg2 = only for debug mode to enable it type -d
-### More info in Turn game documentation.pdf
