@@ -20,7 +20,7 @@ ___
 ```
 ### To run application type on conosle while being inside folder contains script
 ```bash
-  python python password.py arg1 arg2
+  python password.py arg1 arg2
 ```
 ### arg1 = name of DB (test.json)
 ### arg2 = only for debug mode to enable it type -d
